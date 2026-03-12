@@ -1,6 +1,6 @@
 {
   "name": "@wzdbsqb/mcp-zentao",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "禅道 MCP 服务，支持获取我的任务、获取我的 Bug、完成任务、解决 Bug",
   "main": "dist/index.js",
   "type": "module",
